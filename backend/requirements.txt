@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+langchain
+newspaper3k
+beautifulsoup4
+requests
+python-dotenv
+lxml
+lxml-html-clean
+aiohttp
+google-generativeai
+streamlit
+faiss-cpu
